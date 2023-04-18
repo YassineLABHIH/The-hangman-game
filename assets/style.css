@@ -1,0 +1,22 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+#background {
+    position: absolute;
+    top: 0;
+    z-index: -2;
+    opacity: 0.3;
+    width: 100%;
+    max-height: max-content;
+
+}
+
+#title {
+text-shadow: 2px 2px 4px #000000;
+text-transform: uppercase;
+font-weight: bold;
+font-size: 50px;
+
+
+}
